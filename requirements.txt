@@ -1,0 +1,9 @@
+# FastAPI and Uvicorn
+fastapi==0.100.0
+uvicorn[standard]==0.22.0
+
+# For Airflow (will be installed in Dockerfile directly)
+# apache-airflow==2.8.0
+# apache-airflow-providers-postgres==2.0.2
+# psycopg2-binary==2.9.6
+# requests==2.28.1
